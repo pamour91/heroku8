@@ -123,7 +123,7 @@ offline = false;
 antidel = false;
 welcom = false;
 antical = false
-readGc = true; 
+readGc = false; 
 readPc = false;
 autovn = true;
 multi = true
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917736622139"; 
-owner = "917736622139"; 
-fakeyoi = "Pepe Sir"; 
+targetpc = "6288980893843"; 
+owner = "6288980893843"; 
+fakeyoi = "Pamour M"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@917736622139"; 
+nomorowner1 = "@6288980893843"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n❑︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -1670,7 +1670,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│        ©917736622139
+│        ©6288980893843
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
 │  https://github.com/pepesir/PEPE-SIR
@@ -1692,16 +1692,16 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 
 break
 case 'credit':
-   dtod = '917736622139'
-   dtod1 = '917736622139'
-   dtod2 = '917736622139'
+   dtod = '6288980893843'
+   dtod1 = '6288980893843'
+   dtod2 = '6288980893843'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
 ╭───➤ 𝐀𝐃𝐌𝐈𝐍
 │✨ wa.me/${dtod.split('@')[0]}
 ╰───────────────
- © ᴄᴏᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ sɪʀ
+ © ᴄᴏᴅᴇᴅ ʙʏ Dika
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
